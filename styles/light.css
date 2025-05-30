@@ -5,6 +5,7 @@
   --subtitle-color: #353430;
   --text-color: #353430;
   --background-image: url("../images/cover-image-light.png");
+  --background-color: #fff1f7;
   --display-decorated: none;
 }
 
@@ -16,6 +17,7 @@
     --subtitle-color: #353430;
     --text-color: #353430;
     --background-image: url("../images/cover-image-light.png");
+    --background-color: #fff1f7;
     --display-decorated: none;
   }
 }

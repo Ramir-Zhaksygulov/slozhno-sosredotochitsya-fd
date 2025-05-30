@@ -1,10 +1,10 @@
 :root.theme-dark {
-  --font-family: "IBM Plex mono";
   --accent-color: #ff0070;
   --title-color: #db00ff;
   --title-decor: #ff0070;
   --subtitle-color: #000028;
   --text-color: #f1b2ce;
   --background-image: url("../images/cover-image-dark.png");
+  --background-color: #000028;
   --display-decorated: block;
 }

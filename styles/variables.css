@@ -7,17 +7,6 @@
   --subtitle-color: #000028;
   --text-color: #f1b2ce;
   --background-image: url("../images/cover-image-dark.png");
+  --background-color: #000028;
   --display-decorated: block;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    --accent-color: #353430;
-    --title-color: #ffc2e6;
-    --title-decor: #ff8dcb;
-    --subtitle-color: #353430;
-    --text-color: #353430;
-    --background-image: url("../images/cover-image-light.png");
-    --display-decorated: none;
-  }
 }
