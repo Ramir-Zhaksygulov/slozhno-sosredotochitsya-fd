@@ -7,6 +7,7 @@
   --background-image: url("../images/cover-image-light.png");
   --background-color: #fff1f7;
   --display-decorated: none;
+  --hover-color: #32312d66;
 }
 
 @media (prefers-color-scheme: light) {
@@ -19,5 +20,6 @@
     --background-image: url("../images/cover-image-light.png");
     --background-color: #fff1f7;
     --display-decorated: none;
+    --hover-color: #32312d66;
   }
 }
